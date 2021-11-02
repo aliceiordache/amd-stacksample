@@ -2,8 +2,7 @@
 
 ## Description
 
-The goal of this work is to implement a detector of similar items that is scalable a scalable solution to detect pairs of similar items in a corpus of documents.
-Bla bla more text goes of the description goes here (also take from the jupyter nb)
+The goal of this work is to implement a detector of similar items that is a scalable solution to detect pairs of similar items in a corpus of documents.
 
 ## Usage
 
